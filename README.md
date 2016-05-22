@@ -8,3 +8,5 @@ A fictional story written in Japanese.
 
 [3.md](3.md)
 
+[4.md](3.md)
+
