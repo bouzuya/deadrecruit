@@ -6,3 +6,5 @@ A fictional story written in Japanese.
 
 [2.md](2.md)
 
+[3.md](3.md)
+
