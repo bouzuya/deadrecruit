@@ -1,6 +1,6 @@
-# 死者の就活
-
 Shuukatsu -- Japan's hilarious recruiting (a fictional story written in Japanese)
+
+# 死者の就活
 
 就活を風刺した小説です。
 
