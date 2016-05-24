@@ -1,4 +1,6 @@
-Shuukatsu -- Japan's hilarious recruiting (a fictional story written in Japanese)
+# Shuukatsu -- Japan's Hilarious Recruiting
+
+A fictional story written in Japanese.
 
 # 死者の就活
 
